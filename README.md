@@ -3,7 +3,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ringyale)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;World)
 <!--
 **Ringyale/Ringyale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
