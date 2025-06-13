@@ -8,8 +8,6 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
-
 <p>&emsp;&emsp;嗨，我是零凌小铃。热爱编程、读书、游戏、旅行。</p>
 <p>&emsp;&emsp;暂为蒟蒻，无法评价，</p>
 <p>&emsp;&emsp;电波嘟嘟......信号缺失</p>
